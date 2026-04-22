@@ -18,7 +18,7 @@ This project analyzes how market sentiment (Fear vs Greed) influences trader beh
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/trader-performance-sentiment-analysis.git
+git clone https://github.com/bhesaniaNyuti/trader-performance-sentiment-analysis
 cd trader-performance-sentiment-analysis
 ```
 
